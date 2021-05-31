@@ -1,0 +1,18 @@
+.page-footer{
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.footer-copyright{
+    color: white;
+    bottom: 80em;
+}
+.container {
+    
+    text-align: center;
+}
+.flex-center a{
+   padding: 0.5em;
+   margin-top: 50em;
+}

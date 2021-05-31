@@ -1,0 +1,48 @@
+.contain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: #dfe4ea;
+    border-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-top: 10em;
+}
+.panel{
+    padding: 8px 16px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    border: 1px rgb(24, 24, 24) solid;
+}
+.block{
+    font-size: 18px;
+    font-weight: light;  
+}
+.imgstyle{
+    display: grid;
+    
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.cardstyle{
+    border-width: 1px;
+    border-style: solid;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    text-align: unset;
+    align-items: unset;
+    background-color: rgb(255, 255, 255);
+    border-color: rgba(24, 24, 24, 0.2);
+}
+
